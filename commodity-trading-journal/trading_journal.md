@@ -23,3 +23,39 @@ US strategic petroleum reserve release could dampen price spike which should be 
 
 **Target:** Monitor daily — reassess if conflict de escalates
 **Stop loss:** $85
+
+
+
+
+## Trade Update — 30 July 2026
+
+**Instrument:** Brent Crude Oil (CFD)
+**Position:** Long (held)
+**Current Price:** ~$84 (down ~1% from entry)
+**Stop Loss:** $85
+**P&L Today:** -1%
+
+**Market Update:**
+Brent crude pulled back approximately 1% today despite continued Middle East 
+escalation. US forces conducted airstrikes on Iranian positions overnight, 
+intensifying the conflict. Price pullback likely reflects short-term profit 
+taking after yesterday's 7% spike rather than fundamental shift in outlook.
+
+**Thesis Update:**
+Maintaining long position. Core thesis unchanged:
+- Active US-Iran military exchange ongoing
+- Strait of Hormuz supply disruption risk remains elevated
+- Geopolitical risk premium not yet fully priced in
+- No signs of diplomatic resolution
+
+**Decision:**
+Holding position. Short-term pullback expected given size of yesterday's move. 
+War escalation fundamentally supportive of higher Brent prices medium-term.
+
+**Risk:**
+Stop loss at $85 — if price breaks below this level will exit position
+Surprise ceasefire or diplomatic breakthrough would reverse thesis quickly
+
+**Key lesson today:**
+Oil markets don't move in straight lines even during geopolitical crises — 
+profit taking after large moves is normal and doesn't invalidate the thesis.
