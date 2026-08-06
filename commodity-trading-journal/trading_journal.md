@@ -181,3 +181,54 @@ entry gave back everything. Next geopolitical trade — trail the stop as the
 position moves in my favour, never leave it static.
 
 **Running P&L:** -7.2% on this trade
+
+
+
+## Trade Update — 5 August 2026
+
+**Instrument:** Brent Crude Oil (CFD)
+**Position:** None — sitting out
+**Current Price:** Monitoring
+
+**Market Update:**
+No position taken today. Market extremely difficult to read following the 
+rapid reversal of the US-Iran geopolitical trade. Diplomatic talks ongoing 
+but no deal confirmed — price could spike if talks collapse or continue 
+falling if deal progresses. Too much binary risk to enter either direction 
+with conviction.
+
+**Decision:**
+Sitting out. When the market is driven by diplomatic headlines that can 
+reverse within hours, the edge disappears. No clear thesis = no trade.
+
+**Key lesson today:**
+Not trading is a position. Preserving capital when the signal is unclear 
+is as important as entering when it is. Patience is part of risk management.
+
+## Trade Update — 6 August 2026
+
+**Instrument:** Brent Crude Oil (CFD)
+**Position:** None — sitting out
+**Current Price:** Monitoring
+
+**Market Update:**
+Still no position. US-Iran situation remains unresolved — talks continuing 
+but no ceasefire or deal announced. Market whipsawing on every headline, 
+making directional conviction extremely difficult. This is not a market 
+environment that rewards speculation — it rewards patience.
+
+**Decision:**
+Remaining flat until there is a clear resolution either way. If talks 
+collapse and military escalation resumes, will reassess a long position. 
+If deal is confirmed, will look at the new price level and fundamentals 
+before deciding on direction.
+
+**Watching:**
+- Progress of US-Iran diplomatic talks
+- Any return to military strikes
+- EIA inventory report for underlying supply/demand signal away from 
+  geopolitical noise
+
+**Key lesson today:**
+The best traders know when not to trade. A week of sitting flat after a 
+loss is not weakness — it is discipline.
