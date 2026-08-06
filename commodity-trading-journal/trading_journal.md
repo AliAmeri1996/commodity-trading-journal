@@ -136,3 +136,48 @@ thesis resumes. If deal progresses, exit and reassess.
 Always have a clear exit plan before entering a geopolitical trade. 
 Diplomacy can reverse oil price moves as quickly as escalation created them. 
 Risk management through stop losses is essential — not optional.
+
+
+
+
+## Trade Update — 4 August 2026
+
+**Instrument:** Brent Crude Oil (CFD)
+**Position:** Long (closed — stop loss hit)
+**Current Price:** ~$81.80
+**Entry Price:** $88.14
+**P&L:** -7.2%
+**Stop Loss:** $82.00 — triggered
+
+**Market Update:**
+Brent broke below $82 today as US-Iran diplomatic talks progressed significantly, 
+with both sides publicly signalling they are close to a deal. Markets immediately 
+priced out the geopolitical risk premium that had been supporting prices since 
+the initial escalation on 29th July. Move was fast and decisive — no bounce, 
+straight through the stop.
+
+**Thesis Update:**
+Thesis broken. The core assumption was sustained military escalation with no 
+diplomatic resolution. That was wrong — or at least wrong on the timeframe. 
+Diplomatic back-channels were clearly more active than public signals suggested 
+and the market sniffed it out before the headlines confirmed it.
+
+**Decision:**
+Stop loss at $82 triggered. Position closed at approximately $81.80. No attempt 
+to override — when the thesis breaks and the stop is hit, you exit. That's what 
+the stop is for.
+
+**Risk:**
+- Diplomatic deal fully confirmed could push Brent toward $78-80
+- Geopolitical risk premium now almost fully unwound
+- Re-entry only if talks collapse and military escalation resumes
+
+**Key lesson today:**
+Geopolitical risk premiums unwind faster than they build. Markets price in 
+conflict escalation over days — they price out diplomatic resolution in hours. 
+After the position moved to $89.69 on 31st July I should have trailed the stop 
+up to $85 or breakeven to protect gains. Sitting on a fixed $82 stop set at 
+entry gave back everything. Next geopolitical trade — trail the stop as the 
+position moves in my favour, never leave it static.
+
+**Running P&L:** -7.2% on this trade
